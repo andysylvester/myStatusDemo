@@ -1,0 +1,22 @@
+{
+	"name": "test", 
+	"description": "Testing the reallysimple package",
+	"version": "0.4.0", 
+	"author": "Andy Sylvester (sylvester.andy@gmail.com)",
+	"license": "MIT",
+	"main": "rssCloudTestOriginal02.js",
+	"dependencies" : {
+		"marked": "*",
+		"node-emoji": "*",
+		"daveutils": "*",
+		"reallysimple": "*",
+        "request": "*",
+        "http": "*",
+        "url": "*",
+        "dns": "*",
+        "querystring": "*"
+		},
+	"engines": {
+		"node": "*"
+		}
+	}
