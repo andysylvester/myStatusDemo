@@ -27,3 +27,5 @@ Using a tool that creates a rssCloud-enabled RSS feed, create a post. That tool 
 
 ## Resources
 
+Weblog post: [Demo of rssCloud and reallySimple NPM module](https://andysylvester.com/2022/11/09/demo-of-rsscloud-protocol-and-reallysimple-npm-module/)
+
